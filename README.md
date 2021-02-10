@@ -13,7 +13,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AlexBugrimov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexBugrimov&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Chandra's Technologies on GitHub" width="400"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexBugrimov&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Chandra's Technologies on GitHub" height="300" width="400"/></a>
 
 <a href="https://github.com/AlexBugrimov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBugrimov&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css&theme=material-palenight" alt="Chandra's GitHub Stats" width="400"/></a>
